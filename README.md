@@ -1,2 +1,1 @@
-Name : Kosmas Rio Legowo <br />
-NIM : 23/512012/PA/21863
+Repositori ini berisi assignment praktikum Sistem Keamanan dan Jaringan
