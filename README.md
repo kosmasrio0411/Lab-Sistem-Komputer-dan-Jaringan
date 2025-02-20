@@ -1,1 +1,3 @@
-Repositori ini berisi hasil Lab Work Sistem Komputer dan Jaringan
+# Lab Work Basis Data
+Repositori ini berisi hasil Lab Work Basis Data
+
